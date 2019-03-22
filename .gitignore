@@ -7,3 +7,6 @@
 
 # .tfvars files
 *.tfvars
+
+# .setup_env
+*.env
